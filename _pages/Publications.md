@@ -10,7 +10,7 @@ classes: wide
 feature_row1-9:
   - image_path: assets/images/Backscatterpaper.png
     excerpt: "[Vertical structure and energetic constraints for a backscatter parameterization of ocean mesoscale eddies](https://essopenarchive.org/doi/full/10.22541/essoar.169945317.74775304/v1) <br />
-    **Elizabeth Yankovsky** Scott Bachman, K. Shafer Smith, and Laure Zanna (2023).
+    **Elizabeth Yankovsky**, Scott Bachman, K. Shafer Smith, and Laure Zanna (2023).
     *Submitted to Journal of Advances in Modeling Earth Systems*."
 
 feature_row1-8:

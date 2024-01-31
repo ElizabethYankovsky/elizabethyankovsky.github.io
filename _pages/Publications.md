@@ -10,14 +10,15 @@ classes: wide
 feature_row1-9:
   - image_path: assets/images/Backscatterpaper.png
     excerpt: "[Vertical structure and energetic constraints for a backscatter parameterization of ocean mesoscale eddies](https://essopenarchive.org/doi/full/10.22541/essoar.169945317.74775304/v1) <br />
-    **Elizabeth Yankovsky**, Scott Bachman, K. Shafer Smith, and Laure Zanna (2023).
-    *Submitted to Journal of Advances in Modeling Earth Systems*."
+    **Elizabeth Yankovsky**, Scott Bachman, K. Shafer Smith, and Laure Zanna (2024).
+    *Under review in Journal of Advances in Modeling Earth Systems*."
 
 feature_row1-8:
   - image_path: assets/images/plume_paper.png
-    excerpt: "[The cross-shelf regime of a wind-driven supercritical river plume](https://www.researchgate.net/publication/367778945_The_Cross-Shelf_Regime_of_a_Wind-Driven_Supercritical_River_Plume) <br />
+    excerpt: "[The cross-shelf regime of a wind-driven supercritical river plume](https://doi.org/10.1175/JPO-D-23-0012.1) <br />
     **Elizabeth Yankovsky** and Alexander Yankovsky (2023).
-    *Submitted to Journal of Physical Oceanography*."
+    *Journal of Physical Oceanography*. <br />
+    doi: https://doi.org/10.1175/JPO-D-23-0012.1"
 
 feature_row1-7:
   - image_path: assets/images/JAMES_YZS2022.png

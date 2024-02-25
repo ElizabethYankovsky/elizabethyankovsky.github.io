@@ -16,7 +16,7 @@ feature_row1-9:
 feature_row1-8:
   - image_path: assets/images/plume_paper.png
     excerpt: "[The cross-shelf regime of a wind-driven supercritical river plume](https://doi.org/10.1175/JPO-D-23-0012.1) <br />
-    **Elizabeth Yankovsky** and Alexander Yankovsky (2023).
+    **Elizabeth Yankovsky** and Alexander Yankovsky (2024).
     *Journal of Physical Oceanography*. <br />
     doi: https://doi.org/10.1175/JPO-D-23-0012.1"
 
@@ -79,9 +79,9 @@ feature_row1-0:
 ### Preprints
 &nbsp;
 {% include feature_row id="feature_row1-9" type="right" %}
-{% include feature_row id="feature_row1-8" type="right" %}
 ### Journal Articles
 &nbsp;
+{% include feature_row id="feature_row1-8" type="right" %}
 {% include feature_row id="feature_row1-7" type="right" %}
 {% include feature_row id="feature_row1-6" type="right" %}
 {% include feature_row id="feature_row1-5" type="right" %}

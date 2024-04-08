@@ -7,14 +7,15 @@ classes: wide
 ---
 {: style="text-align: justify;"}
 Hello!
-I am a postdoctoral researcher at the [Courant Institute of Mathematical Sciences](https://caos.cims.nyu.edu)
+I am presently a researcher at [[C]Worthy](https://cworthy.org/), an organization aimed at research and development of software tools supporting climate change mitigation efforts through marine Carbon Dioxide Removal (mCDR). I will be starting an assistant professor position in the [Yale Department of Earth and Planetary Sciences](https://earth.yale.edu/) in July 2024. 
+I was previously a postdoctoral researcher at the [Courant Institute of Mathematical Sciences](https://caos.cims.nyu.edu)
 at New York University specializing in physical oceanography, ocean modelling, and geophysical fluid dynamics.
 I am a member of the [Ocean Transport and Eddy Energy Climate Process Team (CPT)](https://ocean-eddy-cpt.github.io).
 My research within the CPT aims to understand the vertical structure of mesoscale eddies in the ocean, and how to parameterize eddy influences in modern ocean models.
 Broadly, I am interested in ocean turbulence and its influences on the large-scale ocean state and climate.
 
 {: style="text-align: justify;"}
-Prior to joining the CPT, I completed my PhD in the [Princeton Atmospheric and Oceanic Sciences Program](https://aos.princeton.edu) and conducted research within the [NOAA Geophysical Fluid Dynamics Laboratory](https://www.gfdl.noaa.gov).
+I completed my PhD in the [Princeton Atmospheric and Oceanic Sciences Program](https://aos.princeton.edu) and conducted research within the [NOAA Geophysical Fluid Dynamics Laboratory](https://www.gfdl.noaa.gov).
 My graduate research focused on the dense water formation processes within the vast continental shelf regions of the Arctic Ocean.
 I studied the role of mesoscale and submesoscale turbulence in shaping how dense water flows undergo mixing and modify the density structure of the Arctic.
 Through performing high-resolution processes studies using the GFDL-MOM6 and the MITgcm, I identified submesoscale symmetric instability to be a dominant mechanism guiding mixing in dense Arctic flows.

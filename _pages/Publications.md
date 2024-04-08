@@ -7,6 +7,12 @@ header:
 author_profile: true
 classes: wide
 
+feature_row1-10:
+  - image_path: assets/images/OAE_Atlas.png
+    excerpt: "[Mapping the global variation in the efficiency of ocean alkalinity enhancement for carbon dioxide removal](https://doi.org/10.21203/rs.3.rs-4124909/v1) <br />
+    Mengyang Zhou, Michael Tyka, David Ho, **Elizabeth Yankovsky**, Scott Bachman, Thomas Nicholas, Alicia Karspeck, and Matthew Long (2024).
+    *Under review in Nature Portfolio*."
+
 feature_row1-9:
   - image_path: assets/images/Backscatterpaper.png
     excerpt: "[Vertical structure and energetic constraints for a backscatter parameterization of ocean mesoscale eddies](https://essopenarchive.org/doi/full/10.22541/essoar.169945317.74775304/v1) <br />
@@ -78,6 +84,7 @@ feature_row1-0:
 
 ### Preprints
 &nbsp;
+{% include feature_row id="feature_row1-10" type="right" %}
 {% include feature_row id="feature_row1-9" type="right" %}
 ### Journal Articles
 &nbsp;

@@ -31,4 +31,3 @@ Both my graduate and postdoctoral research have centered on the synthesis of hig
 {: style="text-align: justify;"}
 Outside of research, I love rock climbing, hiking in the mountains, volunteering at animal shelters, and relaxing with my cat.
 
-!<img src="/assets/images/cats.jpeg" width="100%" align="center"> 

@@ -29,6 +29,6 @@ In the final component of my PhD research, I turned to a global general circulat
 Both my graduate and postdoctoral research have centered on the synthesis of high-resolution idealized modeling to understand the physics governing a given system, applying this understanding to improving coarser-resolution global climate models, and using global climate models to study the influences of small-scale phenomena on the global oceanic circulation.
 
 {: style="text-align: justify;"}
-Outside of research, I love rock climbing, hiking in the mountains, volunteering at animal shelters, and relaxing with my two cats.
+Outside of research, I love rock climbing, hiking in the mountains, volunteering at animal shelters, and relaxing with my cat.
 
-<img src="/assets/images/cats.jpeg" width="100%" align="center"> 
+!<img src="/assets/images/cats.jpeg" width="100%" align="center"> 

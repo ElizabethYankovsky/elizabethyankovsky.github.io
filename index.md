@@ -7,13 +7,13 @@ classes: wide
 ---
 {: style="text-align: justify;"}
 Hello! I am an assistant professor in the [Yale Department of Earth and Planetary Sciences](https://earth.yale.edu/) and am part of the [Atmosphere, Oceans, Climate Dynamics](https://earth.yale.edu/atmosphere-oceans-climate-dynamics) Group.
+Broadly, I am a physical oceanographer and climate modeller interested in ocean turbulence and its influences on the large-scale ocean state and climate.
 Before joining Yale in July of 2024, I was a researcher at [[C]Worthy](https://cworthy.org/), an organization aimed at research and development of software tools supporting climate change mitigation efforts through marine Carbon Dioxide Removal (mCDR). 
 I continue to collaborate with [C]Worthy on studying the influences of ocean turbulence on Ocean Alkalinity Enhancement, as well as working on regional ocean modeling to support mCDR. 
 I was previously a postdoctoral researcher at the [Courant Institute of Mathematical Sciences](https://caos.cims.nyu.edu)
 at New York University specializing in physical oceanography, ocean modelling, and geophysical fluid dynamics.
 I am a member of the [Ocean Transport and Eddy Energy Climate Process Team (CPT)](https://ocean-eddy-cpt.github.io).
 My research within the CPT aims to understand the vertical structure of mesoscale eddies in the ocean, and how to parameterize eddy influences in modern ocean models.
-Broadly, I am a physical oceanographer and modeller interested in ocean turbulence and its influences on the large-scale ocean state and climate.
 
 {: style="text-align: justify;"}
 I completed my PhD in the [Princeton Atmospheric and Oceanic Sciences Program](https://aos.princeton.edu) and conducted research within the [NOAA Geophysical Fluid Dynamics Laboratory](https://www.gfdl.noaa.gov).

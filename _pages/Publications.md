@@ -10,23 +10,23 @@ classes: wide
 feature_row1-11:
   - image_path: assets/images/IRF.png
     excerpt: "[Impulse response functions as a framework for quantifying ocean-based carbon dioxide removal](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2697/) <br />
-    **Elizabeth Yankovsky, Mengyang Zhou, Michael Tyka, Scott Bachman, David Ho, Alicia Karspeck, and Matthew Long (2024).
-    *Under review in Biogeosciences*.
-    Preprint at EGUsphere: https://doi.org/10.5194/egusphere-2024-2697
+    **Elizabeth Yankovsky**, Mengyang Zhou, Michael Tyka, Scott Bachman, David Ho, Alicia Karspeck, and Matthew Long (2024).
+    *Under review in Biogeosciences*. <br />
+    Preprint at EGUsphere: https://doi.org/10.5194/egusphere-2024-2697"
 
 feature_row1-10:
   - image_path: assets/images/OAE_Atlas.png
     excerpt: "[Mapping the global variation in the efficiency of ocean alkalinity enhancement for carbon dioxide removal](https://www.nature.com/articles/s41558-024-02179-9) <br />
     Mengyang Zhou, Michael Tyka, David Ho, **Elizabeth Yankovsky**, Scott Bachman, Thomas Nicholas, Alicia Karspeck, and Matthew Long (2024).
     *Nature Climate Change*. <br />
-    doi: https://doi.org/10.1038/s41558-024-02179-9
+    doi: https://doi.org/10.1038/s41558-024-02179-9"
 
 feature_row1-9:
   - image_path: assets/images/Backscatterpaper.png
     excerpt: "[Vertical structure and energetic constraints for a backscatter parameterization of ocean mesoscale eddies](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023MS004093) <br />
     **Elizabeth Yankovsky**, Scott Bachman, K. Shafer Smith, and Laure Zanna (2024).
     *Journal of Advances in Modeling Earth Systems*. <br />
-    doi: https://doi.org/10.1029/2023MS004093
+    doi: https://doi.org/10.1029/2023MS004093"
 
 feature_row1-8:
   - image_path: assets/images/plume_paper.png

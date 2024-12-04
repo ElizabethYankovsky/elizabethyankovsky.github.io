@@ -7,22 +7,31 @@ header:
 author_profile: true
 classes: wide
 
+feature_row1-11:
+  - image_path: assets/images/IRF.png
+    excerpt: "[Impulse response functions as a framework for quantifying ocean-based carbon dioxide removal](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2697/) <br />
+    **Elizabeth Yankovsky, Mengyang Zhou, Michael Tyka, Scott Bachman, David Ho, Alicia Karspeck, and Matthew Long (2024).
+    *Under review in Biogeosciences*.
+    Preprint at EGUsphere: https://doi.org/10.5194/egusphere-2024-2697
+
 feature_row1-10:
   - image_path: assets/images/OAE_Atlas.png
-    excerpt: "[Mapping the global variation in the efficiency of ocean alkalinity enhancement for carbon dioxide removal](https://doi.org/10.21203/rs.3.rs-4124909/v1) <br />
+    excerpt: "[Mapping the global variation in the efficiency of ocean alkalinity enhancement for carbon dioxide removal](https://www.nature.com/articles/s41558-024-02179-9) <br />
     Mengyang Zhou, Michael Tyka, David Ho, **Elizabeth Yankovsky**, Scott Bachman, Thomas Nicholas, Alicia Karspeck, and Matthew Long (2024).
-    *Under review in Nature Portfolio*."
+    *Nature Climate Change*. <br />
+    doi: https://doi.org/10.1038/s41558-024-02179-9
 
 feature_row1-9:
   - image_path: assets/images/Backscatterpaper.png
-    excerpt: "[Vertical structure and energetic constraints for a backscatter parameterization of ocean mesoscale eddies](https://essopenarchive.org/doi/full/10.22541/essoar.169945317.74775304/v1) <br />
+    excerpt: "[Vertical structure and energetic constraints for a backscatter parameterization of ocean mesoscale eddies](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023MS004093) <br />
     **Elizabeth Yankovsky**, Scott Bachman, K. Shafer Smith, and Laure Zanna (2024).
-    *Under review in Journal of Advances in Modeling Earth Systems*."
+    *Journal of Advances in Modeling Earth Systems*. <br />
+    doi: https://doi.org/10.1029/2023MS004093
 
 feature_row1-8:
   - image_path: assets/images/plume_paper.png
     excerpt: "[The cross-shelf regime of a wind-driven supercritical river plume](https://doi.org/10.1175/JPO-D-23-0012.1) <br />
-    **Elizabeth Yankovsky** and Alexander Yankovsky (2024).
+    **Elizabeth Yankovsky** and Alexander Yankovsky (2023).
     *Journal of Physical Oceanography*. <br />
     doi: https://doi.org/10.1175/JPO-D-23-0012.1"
 
@@ -84,10 +93,11 @@ feature_row1-0:
 
 ### Preprints
 &nbsp;
-{% include feature_row id="feature_row1-10" type="right" %}
-{% include feature_row id="feature_row1-9" type="right" %}
+{% include feature_row id="feature_row1-11" type="right" %}
 ### Journal Articles
 &nbsp;
+{% include feature_row id="feature_row1-10" type="right" %}
+{% include feature_row id="feature_row1-9" type="right" %}
 {% include feature_row id="feature_row1-8" type="right" %}
 {% include feature_row id="feature_row1-7" type="right" %}
 {% include feature_row id="feature_row1-6" type="right" %}

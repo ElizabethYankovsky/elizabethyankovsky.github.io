@@ -7,7 +7,7 @@ classes: wide
 ---
 {: style="text-align: justify;"}
 Hello! I am an assistant professor in the [Yale Department of Earth and Planetary Sciences](https://earth.yale.edu/) and am part of the [Atmosphere, Oceans, Climate Dynamics](https://earth.yale.edu/atmosphere-oceans-climate-dynamics) Group.
-Broadly, I am a physical oceanographer and climate modeller interested in ocean turbulence and its influences on the large-scale ocean state and climate.
+Broadly, I am a physical oceanographer and climate modeler interested in ocean turbulence and its influences on the large-scale ocean state and climate.
 Before joining Yale in July of 2024, I was a researcher at [[C]Worthy](https://cworthy.org/), an organization aimed at research and development of software tools supporting climate change mitigation efforts through marine Carbon Dioxide Removal (mCDR). 
 I continue to collaborate with [C]Worthy on studying the influences of ocean turbulence on Ocean Alkalinity Enhancement, as well as working on regional ocean modeling to support mCDR. 
 I was previously a postdoctoral researcher at the [Courant Institute of Mathematical Sciences](https://caos.cims.nyu.edu)
@@ -30,5 +30,5 @@ In the final component of my PhD research, I turned to a global general circulat
 Both my graduate and postdoctoral research have centered on the synthesis of high-resolution idealized modeling to understand the physics governing a given system, applying this understanding to improving coarser-resolution global climate models, and using global climate models to study the influences of small-scale phenomena on the global oceanic circulation.
 
 {: style="text-align: justify;"}
-Outside of research, I love rock climbing, hiking in the mountains, volunteering at animal shelters, and relaxing with my cat.
+Outside of research, I love rock climbing, hiking in the mountains, volunteering at animal shelters, and relaxing with my cats.
 

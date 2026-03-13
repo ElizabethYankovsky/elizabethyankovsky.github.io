@@ -10,7 +10,7 @@ classes: wide
 feature_row1-12:
   - image_path: assets/images/VS.png
     excerpt: "[A Landscape of Mesoscale Eddy Vertical Structure: The Influence of Bathymetric Slope and Roughness on Kinetic Energy](https://journals.ametsoc.org/view/journals/phoc/55/11/JPO-D-25-0044.1.xml) <br />
-    Jacob Steinberg, **Elizabeth Yankovsky**, Sylvia Cole, and Laure Zanna (2024).
+    Jacob Steinberg, **Elizabeth Yankovsky**, Sylvia Cole, and Laure Zanna (2025).
     *Journal of Physical Oceanography*. <br />
     doi: https://doi.org/10.1175/JPO-D-25-0044.1"
 

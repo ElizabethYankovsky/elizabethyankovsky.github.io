@@ -7,12 +7,19 @@ header:
 author_profile: true
 classes: wide
 
+feature_row1-12:
+  - image_path: assets/images/VS.png
+    excerpt: "[A Landscape of Mesoscale Eddy Vertical Structure: The Influence of Bathymetric Slope and Roughness on Kinetic Energy](https://journals.ametsoc.org/view/journals/phoc/55/11/JPO-D-25-0044.1.xml) <br />
+    Jacob Steinberg, **Elizabeth Yankovsky**, Sylvia Cole, and Laure Zanna (2024).
+    *Journal of Physical Oceanography*. <br />
+    doi: https://doi.org/10.1175/JPO-D-25-0044.1"
+
 feature_row1-11:
   - image_path: assets/images/IRF.png
-    excerpt: "[Impulse response functions as a framework for quantifying ocean-based carbon dioxide removal](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2697/) <br />
-    **Elizabeth Yankovsky**, Mengyang Zhou, Michael Tyka, Scott Bachman, David Ho, Alicia Karspeck, and Matthew Long (2024).
-    *Under review in Biogeosciences*. <br />
-    Preprint at EGUsphere: https://doi.org/10.5194/egusphere-2024-2697"
+    excerpt: "[Impulse response functions as a framework for quantifying ocean-based carbon dioxide removal](https://bg.copernicus.org/articles/22/5723/2025/) <br />
+    **Elizabeth Yankovsky**, Mengyang Zhou, Michael Tyka, Scott Bachman, David Ho, Alicia Karspeck, and Matthew Long (2025).
+    *Biogeosciences*. <br />
+    doi: https://doi.org/10.5194/bg-22-5723-2025"
 
 feature_row1-10:
   - image_path: assets/images/OAE_Atlas.png
@@ -91,11 +98,10 @@ feature_row1-0:
     **Elizabeth Yankovsky** (2020). Advised by: Sonya Legg, Robert Hallberg, Rong Zhang, and Stephen Griffies."
 --- 
 
-### Preprints
-&nbsp;
-{% include feature_row id="feature_row1-11" type="right" %}
 ### Journal Articles
 &nbsp;
+{% include feature_row id="feature_row1-12" type="right" %}
+{% include feature_row id="feature_row1-11" type="right" %}
 {% include feature_row id="feature_row1-10" type="right" %}
 {% include feature_row id="feature_row1-9" type="right" %}
 {% include feature_row id="feature_row1-8" type="right" %}

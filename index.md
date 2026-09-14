@@ -12,8 +12,8 @@ Before joining Yale in July of 2024, I was a researcher at [[C]Worthy](https://c
 I continue to collaborate with [C]Worthy on studying the influences of ocean turbulence on Ocean Alkalinity Enhancement, as well as working on regional ocean modeling to support mCDR. 
 I was previously a postdoctoral researcher at the [Courant Institute of Mathematical Sciences](https://caos.cims.nyu.edu)
 at New York University specializing in physical oceanography, ocean modelling, and geophysical fluid dynamics.
-I am a member of the [Ocean Transport and Eddy Energy Climate Process Team (CPT)](https://ocean-eddy-cpt.github.io).
-My research within the CPT aims to understand the vertical structure of mesoscale eddies in the ocean, and how to parameterize eddy influences in modern ocean models.
+I was a researcher within the [Ocean Transport and Eddy Energy Climate Process Team (CPT)](https://ocean-eddy-cpt.github.io).
+My research within the CPT aimed to understand the vertical structure of mesoscale eddies in the ocean, and how to parameterize eddy influences in modern ocean models.
 
 {: style="text-align: justify;"}
 I completed my PhD in the [Princeton Atmospheric and Oceanic Sciences Program](https://aos.princeton.edu) and conducted research within the [NOAA Geophysical Fluid Dynamics Laboratory](https://www.gfdl.noaa.gov).

@@ -12,7 +12,7 @@ classes: wide
 ## Marine Carbon Dioxide Removal
 
 <div style="width:50%;  padding-left: 10px; float:right">
-    {% include figure image_path="/assets/images/mcdr.png" caption = "*[Impulse response functions for predicting CO<sub>2</sub> uptake from an mCDR intervention.]*"%}
+    {% include figure image_path="/assets/images/mcdr.png" caption = "*Impulse response functions for predicting CO<sub>2</sub> uptake from an mCDR intervention.*"%}
 </div>
 Limiting global warming to 2°C requires dramatically reducing CO<sub>2</sub> emissions and also removing carbon dioxide from the atmosphere. Marine carbon dioxide removal (mCDR) refers to approaches that strengthen the ocean's natural capacity to take up and store CO<sub>2</sub>. Ocean alkalinity enhancement (OAE) is a promising mCDR approach because it accelerates a natural process. Over millions of years, rock weathering supplies alkalinity to the ocean and draws CO<sub>2</sub> out of the atmosphere. Adding alkalinity to the surface ocean creates a deficit in the partial pressure of CO<sub>2</sub>, and gas exchange then drives a flux of CO<sub>2</sub> from the atmosphere into the ocean. Ocean physics largely determines whether an OAE deployment succeeds. Circulation and turbulent mixing carry alkalinity both laterally and vertically. If alkalinity leaves the surface before the ocean fully equilibrates with the atmosphere, the expected CO<sub>2</sub> uptake does not occur. The added carbon signal is also small relative to natural variability and spreads over vast areas, so verification based entirely on observations is not feasible. Monitoring, Reporting, and Verification (MRV) of mCDR therefore relies heavily on numerical models.
 

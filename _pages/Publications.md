@@ -7,6 +7,20 @@ header:
 author_profile: true
 classes: wide
 
+feature_row1-14:
+  - image_path: assets/images/BGC_turbulence.png
+    excerpt: "[Near-Surface Mesoscale and Submesoscale Ocean Dynamics](https://www.sciencedirect.com/science/chapter/referencework/abs/pii/B9780443157486000782?via%3Dihub) <br />
+    **Elizabeth Yankovsky** (2026).
+    *Encyclopedia of Climate Science*. <br />
+    doi: https://doi.org/10.1016/B978-0-443-15748-6.00078-2"
+
+feature_row1-13:
+  - image_path: assets/images/Intermodel.png
+    excerpt: "[Substantial Inter-Model Variation in OAE Efficiency Between the CESM2/MARBL and ECCO-Darwin Ocean Biogeochemistry Models](https://bg.copernicus.org/articles/23/4943/2026/) <br />
+    Michael Tyka, Mengyang Zhou, **Elizabeth Yankovsky**, and Dustin Carroll (2026).
+    *Biogeosciences*. <br />
+    doi: https://doi.org/10.5194/bg-23-4943-2026"
+
 feature_row1-12:
   - image_path: assets/images/VS.png
     excerpt: "[A Landscape of Mesoscale Eddy Vertical Structure: The Influence of Bathymetric Slope and Roughness on Kinetic Energy](https://journals.ametsoc.org/view/journals/phoc/55/11/JPO-D-25-0044.1.xml) <br />
@@ -100,6 +114,8 @@ feature_row1-0:
 
 ### Journal Articles
 &nbsp;
+{% include feature_row id="feature_row1-14" type="right" %}
+{% include feature_row id="feature_row1-13" type="right" %}
 {% include feature_row id="feature_row1-12" type="right" %}
 {% include feature_row id="feature_row1-11" type="right" %}
 {% include feature_row id="feature_row1-10" type="right" %}
